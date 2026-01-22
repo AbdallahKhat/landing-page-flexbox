@@ -72,7 +72,7 @@ section {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     padding: 80px 14%;
     gap: 60px;
@@ -83,12 +83,12 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    min-width: 400px;
+    min-width: 300px;
 }
 
 .container-two {
     flex: 1 1 0;
-    min-width: 400px
+    min-width: 300px
 
 }
 .hero-img {
