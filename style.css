@@ -155,3 +155,27 @@ section {
     margin: 12px 0;
     text-align: center;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding: 80px 20%;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.signature {
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 24px;
+    margin: 0;
+    text-align: right;
+}
